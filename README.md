@@ -1,1 +1,2 @@
-# RISHA-Lab-Unity-GameDev
+# RISHA-Lab-Game-Dev
+
